@@ -2,13 +2,13 @@
 
 ## Overview of the analysis:
 
-The purpose of this analysis was to understand if paid reviewers were causing bias in overall review numbers for amazon furniture reviews. We used AWS, Postgres, and Spark to perofrm the analsyis   
+The purpose of this analysis was to understand if paid reviewers were causing bias in overall review numbers for amazon furniture reviews. We used AWS, Postgres, and Spark to perform the analsyis   
 
 ## Results:
 
 * **How many Vine reviews and non-Vine reviews were there?** For the furniture data set there were 136 paid Vine reviews and 18019 unpaid non-vine reviews.
-* **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?** There were 74 paid vine 5 star reviews and 8482 unpaid non-vine 5 star reviews 
-* **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?** 54% of the vine reviews were 5 stars and 47% of the non-vine reviews were 5 stars 
+* **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?** There were 74 paid vine 5 star reviews and 8482 unpaid non-vine 5 star reviews. 
+* **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?** 54% of the vine reviews were 5 stars and 47% of the non-vine reviews were 5 stars. 
 
 ## Summary: 
 
